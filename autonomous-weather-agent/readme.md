@@ -1,4 +1,6 @@
 🌐 Weather Filtering Agent using Browser-Use
+
+
 📌 Project Overview
 
 This project demonstrates an AI agent built with Browser-Use that autonomously opens a real browser, searches live weather data on Google, extracts factual information, and applies logical conditions to return only validated results.
@@ -106,3 +108,4 @@ Integration with LangGraph workflows
 📎 Conclusion
 
 This project proves that Browser-Use enables trustworthy AI agents capable of real-world reasoning, live data extraction, and condition-based decision making — without hallucination.
+
